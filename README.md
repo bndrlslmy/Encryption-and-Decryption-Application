@@ -72,9 +72,3 @@ A user-friendly **PyQt5 GUI application** for encrypting and decrypting text or 
 ## 🛡️ Disclaimer
 
 This application is for educational purposes. While it demonstrates real cryptography, do **not** use it for protecting highly sensitive information in production environments.
-
----
-
-## 📬 License
-
-MIT License
