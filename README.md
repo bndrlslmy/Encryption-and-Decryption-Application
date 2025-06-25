@@ -1,6 +1,6 @@
 # 🔐 Secure Encryption & Decryption Application
 
-![1](https://github.com/user-attachments/assets/584115df-6bcc-4b7b-931f-1039a590521a)    ![2](https://github.com/user-attachments/assets/220771bf-3a22-4d7a-8a7e-3f641804a981)
+![22](https://github.com/user-attachments/assets/70b1ec54-4221-4973-8aa3-a407444f34a9)
 
 
 
