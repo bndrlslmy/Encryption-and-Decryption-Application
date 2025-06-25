@@ -1,5 +1,9 @@
 # 🔐 Secure Encryption & Decryption Application
 
+![1](https://github.com/user-attachments/assets/584115df-6bcc-4b7b-931f-1039a590521a)
+![2](https://github.com/user-attachments/assets/220771bf-3a22-4d7a-8a7e-3f641804a981)
+
+
 A user-friendly **PyQt5 GUI application** for encrypting and decrypting text or files using popular cryptographic algorithms. Perfect for learning, experimenting, or securing basic data.
 
 ---
